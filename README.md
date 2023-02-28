@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ksamin4@gmail.com**
 
-- ⚡ Fun fact **LOL**
+- ⚡ Fun fact **Nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
