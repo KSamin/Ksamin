@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samin Khan</h1>
 <h3 align="center">A passionate Software Engineer From India.</h3>
 <img align="right" alt="coding" width=400 src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">>
-- 🌱 I’m currently learning **DSA, Machine Learning, Web Development**
+- 🌱 I’m currently learning **Backend Development, Improving problem solving skills, system Design**
 
-- 💬 Ask me about **Core Subjects OS, computer Network, DSA , Theory of Computation, Compiler Design , DBMS ,**
+- 💬 Ask me about **Core Subjects OS, computer Network, DSA , Theory of Computation, Compiler Design , DBMS , Alogithm**
 
 - 📫 How to reach me **ksamin4@gmail.com**
 
