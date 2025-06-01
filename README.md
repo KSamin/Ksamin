@@ -25,10 +25,6 @@
 </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-</a><a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="junit" width="40" height="40"/>
-</a><a href="https://cucumber.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Cucumber.png" alt="cucumber" width="40" height="40"/>
 </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
